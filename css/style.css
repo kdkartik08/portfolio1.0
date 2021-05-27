@@ -1,0 +1,400 @@
+.meep{
+    background-color:#101010;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    white-space: nowrap;
+}
+
+h2{
+    color: #64FFDA;
+    font-weight: bold !important;
+}
+
+h3{
+    font-weight: bold !important;
+}
+
+h2 span{
+    font-size: 100%;
+}
+
+.social li{
+    list-style-type: none;
+    float: left;
+    margin-left: 40px;
+}
+
+.fixed-nav{
+    position: fixed;
+    background-color: #101010;
+}
+
+.nav-design ul li{
+    float: left;
+    list-style-type: none;
+    font-size: 100%;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.nav-design ul li span{
+    font-size: 80%;
+}
+
+.nav-design ul li a{
+    color: #00FF89;
+    text-decoration: none;
+}
+
+.nav-design a:hover{
+    color: white;
+}
+
+.container{
+    padding: 0px 40px;
+}
+
+#intro {
+    margin:0px 80px;
+}
+
+section h1{
+    font-size: 62px;
+    font-weight: 700;
+}
+
+#info{
+    margin-top:100px;
+    margin-left:40px;
+    margin-right:40px;
+}
+
+#info p{
+    margin-top: 40px;
+    word-wrap: break-word;
+}
+
+#info button{
+    margin-top: 30px;
+}
+
+section {
+    margin-top: 200px;
+}
+
+#about ul li{
+    float: left;
+    list-style-type: none;
+
+}
+
+#about{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#about h2{
+    margin-bottom: 40px;
+}
+
+.get-center{
+    text-align: center;
+}
+
+.get-left{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+
+.butn {
+    color: #00FF89;
+    border: 1px solid #00FF89;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 18px 30px 10px 30px;
+}
+
+.success a{
+    color:#00FF89;
+    text-decoration: none;
+}
+
+.success a:hover{
+    text-decoration: none;
+    color: #00FF89;
+}
+.success:hover{ 
+    color: #00FF89;
+    background-color: rgba(0, 255, 137, 0.2);
+}
+
+.experience h3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.date{
+    font-style: italic;
+}
+
+.style-a{
+    font-weight: bold;
+}
+
+.service h3{
+    margin: 10px 0px;
+    color: white;
+}
+
+.service i{
+    font-size: 80px;
+}
+
+.service h2{
+        margin-bottom: 40px;
+}
+
+.experience h2{
+    margin-bottom: 40px;
+}
+
+.projects h2{
+    margin-bottom: 40px;
+}
+
+.contact h2{
+    margin-bottom: 40px;
+}
+
+.contact{
+    margin-left:40px;
+    margin-right:40px;
+}
+.contact i{
+    margin: 0px 6px;
+}
+
+.btm-link a{
+    text-decoration: none;
+    color:white;
+}
+
+.btm-link i{
+    margin-right: 5px;
+}
+
+
+.btm-link a:hover{
+    text-decoration: none;
+    color:#00FF89
+}
+
+
+.nav-btm a{
+    float: left;
+    list-style-type: none;
+    font-size: 90%;
+    color: #00FF89;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.btm-info{
+    text-align: center;
+    font-size: 100%;
+}
+
+.kartik img{
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.kartik img{
+    border: 2px solid #00FF89;
+    width: 60%;
+    height: auto;
+}
+
+
+.kartik img:hover{
+    border: 4px solid #00FF89;
+    width: 60%;
+    height: auto;
+    top:30px;
+    right:-30px;
+}
+
+#elements1{
+    position: fixed;
+    top: 70%;
+    left: 4%;
+    font-size: 20px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+
+#elements1 a:hover{
+    color:#00FF89;
+}
+
+#elements1 a{
+    color: #AAAAAA;
+    text-decoration: none;
+}
+
+.vl1 {
+    position: fixed;
+    border-left: 1px solid #AAAAAA;
+    height: 300px;
+    left: 4%;
+    top: 80%;
+  }
+
+
+#elements2{
+    position: fixed;
+    top: 76%;
+    left: 96%;
+    font-size: 12px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+
+#elements2 a{
+    color:#AAAAAA;
+    text-decoration: none;
+}
+
+#elements2 p{
+    transform: rotate(-90deg);
+}
+
+#elements2 a:hover{
+    color: #00FF89;
+}
+
+.vl2 {
+    position: fixed;
+    border-left: 1px solid #AAAAAA;
+    height: 300px;
+    left: 96%;
+    top: 90%;
+  }
+
+  .social a{
+      color: white;
+      text-decoration: none;
+  }
+
+  .social a:hover{
+    color: #00FF89;
+    text-decoration: none;
+}
+
+.nav-btm {
+    margin-top: 100px;
+}
+.nav-btm a{
+    text-decoration: none;
+    color: #00FF89;
+}
+
+.nav-btm a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.det {
+    text-align: left;
+    margin-left: 30px;
+}
+
+.skills p{
+    white-space: nowrap;
+}
+
+@media only screen and (max-width: 992px) {
+
+
+    .det{
+        text-align: center;
+        margin: 0px 60px 60px 60px;
+    }
+
+    .kartik img{
+        float: none !important;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #about h2{
+        text-align:center;
+    }
+
+    #about p{
+        margin-left:20px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    
+
+    .nav-design ul li{
+        text-align: center;
+    }
+
+   #info h1{
+        font-size: 44px;;
+    }
+
+    #info p{
+        font-size: 14px;
+    }
+
+    .success{
+        padding: 14px 24px 6px 24px;
+    }
+    .success h6{
+        font-size: 12px;
+    }
+  }
+
+  @media only screen and (max-width: 576px){
+
+
+    h1{
+        font-size: 8vw !important;
+    }
+
+    h2{
+        font-size: 6vw !important;
+    }
+
+    h3{
+        font-size: 6vw !important;
+    }
+
+    .nav-btm{
+        visibility: hidden;
+    }
+
+
+    .btm-info p{
+        font-size: 3vw;
+    }
+
+    .btm-link p{
+        white-space: normal !important ;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+  }
